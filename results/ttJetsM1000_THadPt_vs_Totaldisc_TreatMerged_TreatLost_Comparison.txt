@@ -1,3 +1,0 @@
-TreatMerged | Merged True: 265 | Merged False: 91  | Correct Merged Efficiency = 0.744382 | Lost True: 902 | Lost False: 69 | Correct Lost Efficiency = 0.928939 | Linear Boundary equation: y = 0.008305*x + -0.751649  | LDA score = 0.879427
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TreatLost   | Merged True: 316 | Merged False: 138 | Correct Merged Efficiency = 0.696035 | Lost True: 913 | Lost False: 71 | Correct Lost Efficiency = 0.927846 | Linear Boundary equation: y = -0.014913*x + 14.895826 | LDA score = 0.854659
